@@ -1,5 +1,5 @@
 ### Hi there, I'm Swarnava 👋
-![gif from nerdy.dev](https://github.com/argyleink/argyleink/blob/master/swarnava-sm2.gif?raw=true)
+
 - 🔭 I’m currently working on E-commerce Project
 - 🌱 I’m currently learning Django and Laravel Framework
 - 👯 I’m looking to collaborate on Github
@@ -9,3 +9,4 @@
 - 😄 Pronouns: Swarnava Basu
 - ⚡ Fun fact: Programming
 
+<img src="https://github-readme-stats.vercel.app/api?username=H3K4R&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
