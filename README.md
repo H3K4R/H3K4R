@@ -1,5 +1,5 @@
 ### Hi there, I'm Swarnava 👋
-
+![gif from nerdy.dev](https://github.com/argyleink/argyleink/blob/master/argyleink-sm2.gif?raw=true)
 - 🔭 I’m currently working on E-commerce Project
 - 🌱 I’m currently learning Django and Laravel Framework
 - 👯 I’m looking to collaborate on Github
