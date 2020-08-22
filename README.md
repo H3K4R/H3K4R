@@ -41,12 +41,12 @@
 
 
 
-<details>
+
 ### Github Stats
 
   <img align="left" alt="Swarnava's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=H3K4R&show_icons=true&hide_border=true" />
 
-</details>
+
 
 
 [twitter]: https://twitter.com/basu_swarnava
