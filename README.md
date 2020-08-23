@@ -2,7 +2,7 @@
 ![LinkedIn Cover - 1(1)](https://user-images.githubusercontent.com/36497553/90978290-6579da00-e56a-11ea-9c42-a4bdcd6fd6ed.jpg)
 
 
-## I'm a Developer, and Mentor !
+## I'm a Developer, and a Mentor for junior developers !
 - 🔭 I’m currently working on a Python🐍, React⚛️ , Vue⚜️ , Angular🧰 , AWS🤖 , Azure☁️ 
 - 🌱 I’m currently learning Azure☁️ and Python🐍
 - 👯 I’m looking to collaborate with other Software Developers🧑‍💻 
