@@ -1,5 +1,6 @@
 ### Hi there, I'm Swarnava - 👋
-![000](https://user-images.githubusercontent.com/36497553/90960670-e9778780-e4c0-11ea-94bf-893b7daeb603.jpg)
+![LinkedIn Cover - 1(1)](https://user-images.githubusercontent.com/36497553/90978290-6579da00-e56a-11ea-9c42-a4bdcd6fd6ed.jpg)
+
 
 ## I'm a Developer, and Mentor !
 - 🔭 I’m currently working on a [Python]
