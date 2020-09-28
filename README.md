@@ -4,7 +4,7 @@
 
 ## I'm a Developer, and a Mentor for junior developers !
 - 🔭 I’m currently working on a Python🐍, React⚛️ , Vue⚜️ , Angular🧰 , AWS🤖 , Azure☁️ 
-- 🌱 I’m currently learning Azure☁️ and Python🐍
+- 🌱 I’m currently learning Azure☁️, Python🐍 and Machine Learning🤖
 - 👯 I’m looking to collaborate with other Software Developers🧑‍💻 
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Barcelona is the best club 🤣⚽ 
