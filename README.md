@@ -24,6 +24,10 @@
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />
 <img align="left" alt="CI/CD" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/github-actions/github-actions.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" />
+<img align="left" alt="ECS" width="26px" src="https://raw.githubusercontent.com/aws/containers-roadmap/main/preview-programs/feature-ecs.png" />
+<img align="left" alt="EKS" width="26px" src="https://raw.githubusercontent.com/aws/containers-roadmap/main/preview-programs/feature-eks.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
 
 
 <br />
