@@ -33,9 +33,10 @@
 
 
 
-### Github Stats
+### GitHub Stats
 
-  <img align="left" alt="Swarnava's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=H3K4R&show_icons=true&hide_border=true" />
+<img align="left" alt="Swarnava's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=H3K4R&show_icons=true&hide_border=true" />
+>
 
 
 
