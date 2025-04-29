@@ -12,7 +12,6 @@
 
 <br />
 
-### Languages and Tools:
 
 ### Languages and Tools:
 
