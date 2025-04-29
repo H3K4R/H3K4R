@@ -1,5 +1,7 @@
-### Hi there, I'm Swarnava - 👋
-![LinkedIn Cover - 1(1)]([https://user-images.githubusercontent.com/36497553/90978290-6579da00-e56a-11ea-9c42-a4bdcd6fd6ed.jpg](https://media.licdn.com/dms/image/v2/C4D16AQHhhKa2lpTdDA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1651380404419?e=2147483647&v=beta&t=2CmOHa39XwUe9P37c1PwQFS1mP1w7BjgULV1upRzuHc))
+### Hi there, I'm Swarnava 👋
+
+![LinkedIn Cover](https://media.licdn.com/dms/image/v2/C4D16AQHhhKa2lpTdDA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1651380404419?e=2147483647&v=beta&t=2CmOHa39XwUe9P37c1PwQFS1mP1w7BjgULV1upRzuHc)
+
 
 
 ## I'm a DevOps Engineer! Platform Engineer! Infrastructure Enthusiast!
