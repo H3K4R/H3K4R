@@ -4,7 +4,7 @@
 
 
 
-## I'm a DevOps Engineer! Platform Engineer! Infrastructure Enthusiast!
+## I'm a DevOps Engineer! Platform Engineer! Infrastructure Enthusiast! MLOps Enthusiast!
 
 ### Connect with me:
 
